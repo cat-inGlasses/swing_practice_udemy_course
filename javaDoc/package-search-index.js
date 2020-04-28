@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"controller"},{"l":"gui"},{"l":"gui.dialogs"},{"l":"gui.helpers"},{"l":"gui.listeners"},{"l":"gui.views"},{"l":"model"},{"l":"model.enums"}]
